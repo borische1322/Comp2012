@@ -1,0 +1,442 @@
+>>>>>>>>>>> Case 1 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Append table ======
+* Start with Part 1
++----------+-----------+----------+---------------+
+|   Rank   | Last Week |   Peak   | Week on Chart |
++----------+-----------+----------+---------------+
+|        1 |        -1 |        1 |             1 |
+|        2 |         1 |        1 |             7 |
+|        3 |         2 |        2 |             3 |
+|        4 |         3 |        1 |            11 |
+|        5 |         5 |        4 |            15 |
+|        6 |         6 |        1 |            68 |
+|        7 |         7 |        5 |            25 |
+|        8 |         4 |        1 |             3 |
+|        9 |        12 |        9 |            29 |
+|       10 |         8 |        1 |            33 |
++----------+-----------+----------+---------------+
+(integer columns)
++-------------------------------------------------+--------------------------+
+|                     Artists                     |           Song           |
++-------------------------------------------------+--------------------------+
+|  Justin Bieber Featuring Daniel Caesar & Giveon |                  Peaches |
+|                                         Cardi B |                       Up |
+|        Silk Sonic (Bruno Mars & Anderson .Paak) |      Leave The Door Open |
+|                                  Olivia Rodrigo |          Drivers License |
+|                                      The Weeknd |          Save Your Tears |
+|                                      The Weeknd |          Blinding Lights |
+|                       Dua Lipa Featuring DaBaby |               Levitating |
+|                                           Drake |              What's Next |
+|                                       Pop Smoke |  What You Know Bout Love |
+|                    24kGoldn Featuring iann dior |                     Mood |
++-------------------------------------------------+--------------------------+
+(string columns)
++----------+
+|  Awards  |
++----------+
+|true        |
+|true        |
+|true        |
+|false        |
+|false        |
+|false        |
+|false        |
+|false        |
+|true        |
+|false        |
++----------+
+(boolean columns)
+10 records and 7 columns in set
+* Append Part 2
++----------+-----------+----------+---------------+
+|   Rank   | Last Week |   Peak   | Week on Chart |
++----------+-----------+----------+---------------+
+|        1 |        -1 |        1 |             1 |
+|        2 |         1 |        1 |             7 |
+|        3 |         2 |        2 |             3 |
+|        4 |         3 |        1 |            11 |
+|        5 |         5 |        4 |            15 |
+|        6 |         6 |        1 |            68 |
+|        7 |         7 |        5 |            25 |
+|        8 |         4 |        1 |             3 |
+|        9 |        12 |        9 |            29 |
+|       10 |         8 |        1 |            33 |
+|       11 |         9 |        2 |            21 |
+|       12 |        11 |        3 |            46 |
+|       13 |        14 |       13 |            12 |
+|       14 |        13 |        3 |             6 |
+|       15 |        15 |        2 |            20 |
+|       16 |        37 |        6 |            12 |
+|       17 |        25 |       17 |             6 |
+|       18 |        18 |       18 |            16 |
+|       19 |        10 |        2 |             3 |
+|       20 |        59 |       20 |             3 |
++----------+-----------+----------+---------------+
+(integer columns)
++-------------------------------------------------+--------------------------+
+|                     Artists                     |           Song           |
++-------------------------------------------------+--------------------------+
+|  Justin Bieber Featuring Daniel Caesar & Giveon |                  Peaches |
+|                                         Cardi B |                       Up |
+|        Silk Sonic (Bruno Mars & Anderson .Paak) |      Leave The Door Open |
+|                                  Olivia Rodrigo |          Drivers License |
+|                                      The Weeknd |          Save Your Tears |
+|                                      The Weeknd |          Blinding Lights |
+|                       Dua Lipa Featuring DaBaby |               Levitating |
+|                                           Drake |              What's Next |
+|                                       Pop Smoke |  What You Know Bout Love |
+|                    24kGoldn Featuring iann dior |                     Mood |
+|                                   Ariana Grande |                    34+35 |
+|                        Chris Brown & Young Thug |                 Go Crazy |
+|                 Pooh Shiesty Featuring Lil Durk |            Back In Blood |
+|                        Lil Tjay Featuring 6LACK |         Calling My Phone |
+|                                   Billie Eilish |           Therefore I Am |
+|                                   Justin Bieber |                   Anyone |
+|                                     Masked Wolf |   Astronaut In The Ocean |
+|                       Yung Bleu Featuring Drake |       You're Mines Still |
+|                        Drake Featuring Lil Baby |          Wants And Needs |
+|                                   Justin Bieber |                  Hold On |
++-------------------------------------------------+--------------------------+
+(string columns)
++----------+
+|  Awards  |
++----------+
+|true        |
+|true        |
+|true        |
+|false        |
+|false        |
+|false        |
+|false        |
+|false        |
+|true        |
+|false        |
+|false        |
+|false        |
+|true        |
+|true        |
+|false        |
+|true        |
+|true        |
+|false        |
+|false        |
+|true        |
++----------+
+(boolean columns)
+20 records and 7 columns in set
+* Append Part 3
++----------+-----------+----------+---------------+
+|   Rank   | Last Week |   Peak   | Week on Chart |
++----------+-----------+----------+---------------+
+|        1 |        -1 |        1 |             1 |
+|        2 |         1 |        1 |             7 |
+|        3 |         2 |        2 |             3 |
+|        4 |         3 |        1 |            11 |
+|        5 |         5 |        4 |            15 |
+|        6 |         6 |        1 |            68 |
+|        7 |         7 |        5 |            25 |
+|        8 |         4 |        1 |             3 |
+|        9 |        12 |        9 |            29 |
+|       10 |         8 |        1 |            33 |
+|       11 |         9 |        2 |            21 |
+|       12 |        11 |        3 |            46 |
+|       13 |        14 |       13 |            12 |
+|       14 |        13 |        3 |             6 |
+|       15 |        15 |        2 |            20 |
+|       16 |        37 |        6 |            12 |
+|       17 |        25 |       17 |             6 |
+|       18 |        18 |       18 |            16 |
+|       19 |        10 |        2 |             3 |
+|       20 |        59 |       20 |             3 |
+|       21 |        17 |        1 |            22 |
+|       22 |        19 |       17 |            31 |
+|       23 |        20 |       15 |            10 |
+|       24 |        21 |       21 |            11 |
+|       25 |        23 |       23 |            16 |
+|       26 |        34 |        1 |            31 |
+|       27 |        16 |       16 |            11 |
+|       28 |        22 |        5 |            21 |
+|       29 |        30 |       29 |             6 |
+|       30 |        26 |       26 |             7 |
++----------+-----------+----------+---------------+
+(integer columns)
++-------------------------------------------------+--------------------------+
+|                     Artists                     |           Song           |
++-------------------------------------------------+--------------------------+
+|  Justin Bieber Featuring Daniel Caesar & Giveon |                  Peaches |
+|                                         Cardi B |                       Up |
+|        Silk Sonic (Bruno Mars & Anderson .Paak) |      Leave The Door Open |
+|                                  Olivia Rodrigo |          Drivers License |
+|                                      The Weeknd |          Save Your Tears |
+|                                      The Weeknd |          Blinding Lights |
+|                       Dua Lipa Featuring DaBaby |               Levitating |
+|                                           Drake |              What's Next |
+|                                       Pop Smoke |  What You Know Bout Love |
+|                    24kGoldn Featuring iann dior |                     Mood |
+|                                   Ariana Grande |                    34+35 |
+|                        Chris Brown & Young Thug |                 Go Crazy |
+|                 Pooh Shiesty Featuring Lil Durk |            Back In Blood |
+|                        Lil Tjay Featuring 6LACK |         Calling My Phone |
+|                                   Billie Eilish |           Therefore I Am |
+|                                   Justin Bieber |                   Anyone |
+|                                     Masked Wolf |   Astronaut In The Ocean |
+|                       Yung Bleu Featuring Drake |       You're Mines Still |
+|                        Drake Featuring Lil Baby |          Wants And Needs |
+|                                   Justin Bieber |                  Hold On |
+|                                   Ariana Grande |                Positions |
+|                                      Tate McRae |      You Broke Me First. |
+|   SpotemGottem Featuring Pooh Shiesty Or DaBaby |                 Beat Box |
+|                     Saweetie Featuring Doja Cat |              Best Friend |
+|                                        Lil Baby |                    On Me |
+|                                             BTS |                 Dynamite |
+|                                        Doja Cat |                  Streets |
+|                         Bad Bunny & Jhay Cortez |                   Dakiti |
+|                                          Giveon |   Heartbreak Anniversary |
+|                    Coi Leray Featuring Lil Durk |          No More Parties |
++-------------------------------------------------+--------------------------+
+(string columns)
++----------+
+|  Awards  |
++----------+
+|true        |
+|true        |
+|true        |
+|false        |
+|false        |
+|false        |
+|false        |
+|false        |
+|true        |
+|false        |
+|false        |
+|false        |
+|true        |
+|true        |
+|false        |
+|true        |
+|true        |
+|false        |
+|false        |
+|true        |
+|false        |
+|true        |
+|true        |
+|true        |
+|true        |
+|true        |
+|false        |
+|false        |
+|true        |
+|true        |
++----------+
+(boolean columns)
+30 records and 7 columns in set
+
+>>>>>>>>>>> Case 2 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Get Column View ======
+* Get Rank
++----------+
+|   Rank   |
++----------+
+|        1 |
+|        2 |
+|        3 |
+|        4 |
+|        5 |
+|        6 |
+|        7 |
+|        8 |
+|        9 |
+|       10 |
++----------+
+10 items in set (capacity: 10)
+* Get Artists
++-------------------------------------------------+
+|                     Artists                     |
++-------------------------------------------------+
+|  Justin Bieber Featuring Daniel Caesar & Giveon |
+|                                         Cardi B |
+|        Silk Sonic (Bruno Mars & Anderson .Paak) |
+|                                  Olivia Rodrigo |
+|                                      The Weeknd |
+|                                      The Weeknd |
+|                       Dua Lipa Featuring DaBaby |
+|                                           Drake |
+|                                       Pop Smoke |
+|                    24kGoldn Featuring iann dior |
++-------------------------------------------------+
+10 items in set (capacity: 10)
+* Get Awards
++----------+
+|  Awards  |
++----------+
+|true        |
+|true        |
+|true        |
+|false        |
+|false        |
+|false        |
+|false        |
+|false        |
+|true        |
+|false        |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 3 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+====== Update Entries ======
+* Update Rank
+* Update Artists
+* Update Awards
++----------+-----------+----------+---------------+
+|   Rank   | Last Week |   Peak   | Week on Chart |
++----------+-----------+----------+---------------+
+|       -1 |        17 |        1 |            22 |
+|       22 |        19 |       17 |            31 |
+|       23 |        20 |       15 |            10 |
+|       24 |        21 |       21 |            11 |
+|       25 |        23 |       23 |            16 |
+|       26 |        34 |        1 |            31 |
+|       27 |        16 |       16 |            11 |
+|       28 |        22 |        5 |            21 |
+|       29 |        30 |       29 |             6 |
+|       30 |        26 |       26 |             7 |
++----------+-----------+----------+---------------+
+(integer columns)
++-----------------------------------------------+------------------------+
+|                    Artists                    |          Song          |
++-----------------------------------------------+------------------------+
+|                                          Test |              Positions |
+|                                    Tate McRae |    You Broke Me First. |
+| SpotemGottem Featuring Pooh Shiesty Or DaBaby |               Beat Box |
+|                   Saweetie Featuring Doja Cat |            Best Friend |
+|                                      Lil Baby |                  On Me |
+|                                           BTS |               Dynamite |
+|                                      Doja Cat |                Streets |
+|                       Bad Bunny & Jhay Cortez |                 Dakiti |
+|                                        Giveon | Heartbreak Anniversary |
+|                  Coi Leray Featuring Lil Durk |        No More Parties |
++-----------------------------------------------+------------------------+
+(string columns)
++----------+
+|  Awards  |
++----------+
+|false        |
+|true        |
+|true        |
+|true        |
+|true        |
+|true        |
+|false        |
+|false        |
+|true        |
+|true        |
++----------+
+(boolean columns)
+10 records and 7 columns in set
+

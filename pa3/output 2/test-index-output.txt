@@ -1,0 +1,339 @@
+>>>>>>>>>>> Case 1 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Basic Array Indexing Test (Read) ======
+* Original size of #10#
+* Original capacity of #10#
+Item at index 0: -1
+Item at index 1: 66
+Item at index 2: 77
+Item at index 3: 76
+Item at index 4: 74
+Item at index 5: -1
+Item at index 6: -1
+Item at index 7: 75
+Item at index 8: -1
+Item at index 9: 86
+
+>>>>>>>>>>> Case 2 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Basic Array Indexing Test (Read) ======
+* Original size of #10#
+* Original capacity of #15#
+Item at index 0: Deserve You
+Item at index 1: Wasted On You
+Item at index 2: Made For You
+Item at index 3: Breaking Up Was Easy In The 90's
+Item at index 4: Quicksand
+Item at index 5: Die For You
+Item at index 6: Tombstone
+Item at index 7: Pick Up Your Feelings
+Item at index 8: Love You Different
+Item at index 9: Glad You Exist
+
+>>>>>>>>>>> Case 3 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Negative Indexing Test (Read) ======
+* Original size of #10#
+* Original capacity of #10#
+Item at index -1: 86
+Item at index -2: -1
+Item at index -3: 75
+Item at index -4: -1
+Item at index -5: -1
+Item at index -6: 74
+Item at index -7: 76
+Item at index -8: 77
+Item at index -9: 66
+Item at index -10: -1
+
+>>>>>>>>>>> Case 4 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Negative Indexing Test (Read) ======
+* Original size of #10#
+* Original capacity of #15#
+Item at index -1: Glad You Exist
+Item at index -2: Love You Different
+Item at index -3: Pick Up Your Feelings
+Item at index -4: Tombstone
+Item at index -5: Die For You
+Item at index -6: Quicksand
+Item at index -7: Breaking Up Was Easy In The 90's
+Item at index -8: Made For You
+Item at index -9: Wasted On You
+Item at index -10: Deserve You
+
+>>>>>>>>>>> Case 5 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Basic Array Indexing Test (Write) ======
+* Original size of #10#
+* Original capacity of #10#
++---------------+
+| Last Week (5) |
++---------------+
+|            -2 |
+|           132 |
+|           154 |
+|           152 |
+|           148 |
+|            -2 |
+|            -2 |
+|           150 |
+|            -2 |
+|           172 |
++---------------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 6 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Basic Array Indexing Test (Write) ======
+* Original size of #10#
+* Original capacity of #15#
++------------------------------------------------------------------+
+|                             Song (6)                             |
++------------------------------------------------------------------+
+|                                           Deserve YouDeserve You |
+|                                       Wasted On YouWasted On You |
+|                                         Made For YouMade For You |
+| Breaking Up Was Easy In The 90'sBreaking Up Was Easy In The 90's |
+|                                               QuicksandQuicksand |
+|                                           Die For YouDie For You |
+|                                               TombstoneTombstone |
+|                       Pick Up Your FeelingsPick Up Your Feelings |
+|                             Love You DifferentLove You Different |
+|                                     Glad You ExistGlad You Exist |
++------------------------------------------------------------------+
+10 items in set (capacity: 15)
+
+>>>>>>>>>>> Case 7 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Boolean Indexing ======
+* Original size of #10#
+* Original capacity of #15#
++----------+
+|   NULL   |
++----------+
+|        1 |
+|        5 |
+|        4 |
+|        7 |
+|        1 |
+|        1 |
+|        9 |
+|        1 |
+|        7 |
++----------+
+9 items in set (capacity: 9)
+
+>>>>>>>>>>> Case 8 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Boolean Indexing ======
+* Original size of #10#
+* Original capacity of #15#
++------------------------------+
+|             NULL             |
++------------------------------+
+|                Justin Bieber |
+|                    Jake Owen |
+|             Jazmine Sullivan |
+| Justin Bieber Featuring BEAM |
+|                   Dan + Shay |
++------------------------------+
+5 items in set (capacity: 5)
+
+>>>>>>>>>>> Case 9 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Boolean Indexing ======
+* Original size of #10#
+* Original capacity of #15#
++----------+
+|   NULL   |
++----------+
+|    false |
+|    false |
+|    false |
++----------+
+3 items in set (capacity: 3)
+
+>>>>>>>>>>> Case 10 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #20#
+* Original capacity of #20#
++---------------------------------------------+
+|                 Artist (10)                 |
++---------------------------------------------+
+|                               Justin Bieber |
+|                               Morgan Wallen |
+|                                   Jake Owen |
+|                                    Sam Hunt |
+|                                      Morray |
+|        Justin Bieber Featuring Dominic Fike |
+|                                    Rod Wave |
+|                            Jazmine Sullivan |
+|                Justin Bieber Featuring BEAM |
+|                                  Dan + Shay |
+|                                Jordan Davis |
+|           Justin Bieber Featuring Burna Boy |
+|                                        VEDO |
+|                   Black Eyed Peas X Shakira |
+|                  Keith Urban Duet With P!nk |
+|                               Justin Bieber |
+|  Pop Smoke Featuring A Boogie Wit da Hoodie |
+|                                 Dylan Scott |
+|                    Chris Young + Kane Brown |
+|                             Miranda Lambert |
++---------------------------------------------+
+20 items in set (capacity: 20)
+
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #20#
+* Original capacity of #20#
++-------------+
+| Awards (10) |
++-------------+
+|        true |
+|       false |
+|        true |
+|        true |
+|       false |
+|        true |
+|        true |
+|       false |
+|        true |
+|        true |
+|       false |
+|        true |
+|       false |
+|       false |
+|       false |
+|        true |
+|        true |
+|       false |
+|        true |
+|       false |
++-------------+
+20 items in set (capacity: 20)
+
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #20#
+* Original capacity of #20#
++---------------------+
+| Weeks on Chart (10) |
++---------------------+
+|                   1 |
+|                  11 |
+|                   5 |
+|                   4 |
+|                   7 |
+|                   1 |
+|                   1 |
+|                   9 |
+|                   1 |
+|                   7 |
+|                   9 |
+|                   1 |
+|                  13 |
+|                  11 |
+|                  15 |
+|                   1 |
+|                   5 |
+|                   4 |
+|                   1 |
+|                   2 |
++---------------------+
+20 items in set (capacity: 20)
+
+====== Boolean Indexing ======
+* Original size of #20#
+* Original capacity of #20#
++------------+
+|    NULL    |
++------------+
+|  Jake Owen |
+| Dan + Shay |
++------------+
+2 items in set (capacity: 2)
+
+>>>>>>>>>>> Case 11 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Integer Indexing with Conversion to std::string ======
+* Original size of #10#
+* Original capacity of #15#
+Item at index 0 as string: 1
+Item at index 1 as string: 11
+Item at index 2 as string: 5
+Item at index 3 as string: 4
+Item at index 4 as string: 7
+Item at index 5 as string: 1
+Item at index 6 as string: 1
+Item at index 7 as string: 9
+Item at index 8 as string: 1
+Item at index 9 as string: 7
+
+>>>>>>>>>>> Case 12 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Integer Indexing with Conversion to std::string ======
+* Original size of #10#
+* Original capacity of #15#
+Item at index 0 as string: Justin Bieber
+Item at index 1 as string: Morgan Wallen
+Item at index 2 as string: Jake Owen
+Item at index 3 as string: Sam Hunt
+Item at index 4 as string: Morray
+Item at index 5 as string: Justin Bieber Featuring Dominic Fike
+Item at index 6 as string: Rod Wave
+Item at index 7 as string: Jazmine Sullivan
+Item at index 8 as string: Justin Bieber Featuring BEAM
+Item at index 9 as string: Dan + Shay
+
+>>>>>>>>>>> Case 13 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Integer Indexing with Conversion to std::string ======
+* Original size of #10#
+* Original capacity of #15#
+Item at index 0 as string: true
+Item at index 1 as string: false
+Item at index 2 as string: true
+Item at index 3 as string: true
+Item at index 4 as string: false
+Item at index 5 as string: true
+Item at index 6 as string: true
+Item at index 7 as string: false
+Item at index 8 as string: true
+Item at index 9 as string: true
+

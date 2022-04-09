@@ -1,0 +1,394 @@
+>>>>>>>>>>> Case 1 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+* Note: Negating the second column, so that the operation becomes a - b
+====== Addition Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: Original size of #10#
+* second: Original capacity of #15#
++----------+
+|   NULL   |
++----------+
+|        8 |
+|      -11 |
+|       -6 |
+|        1 |
+|       -4 |
+|       -3 |
+|        4 |
+|       -9 |
+|       -7 |
+|       -6 |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 2 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+* Note: Adding a dash after each item of a
+====== Addition Test ======
+* first: Original size of #10#
+* first: Original capacity of #15#
+* second: Original size of #10#
+* second: Original capacity of #10#
++--------------------------------------------------------+
+|                          NULL                          |
++--------------------------------------------------------+
+|                                         Dynamite - BTS |
+|                                     Streets - Doja Cat |
+|                       Dakiti - Bad Bunny & Jhay Cortez |
+|                        Heartbreak Anniversary - Giveon |
+|         No More Parties - Coi Leray Featuring Lil Durk |
+|    My Ex's Best Friend - Machine Gun Kelly X blackbear |
+|                               Street Runner - Rod Wave |
+|  For The Night - Pop Smoke Featuring Lil Baby & DaBaby |
+|                                        Good Days - SZA |
+|                What's Your Country Song - Thomas Rhett |
++--------------------------------------------------------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 3 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+* Note: Negating the second column, so that the operation becomes a - b
+====== Addition Assignment Test ======
+* first: Original size of #10#
+* first: Original capacity of #15#
+* second: Original size of #10#
+* second: Original capacity of #10#
++-------------------+
+| Rank Increase (3) |
++-------------------+
+|               -13 |
+|               -88 |
+|               -10 |
+|               -17 |
+|                -8 |
+|               -92 |
+|                -3 |
+|                -8 |
+|               -95 |
+|                -5 |
++-------------------+
+10 items in set (capacity: 15)
+
+>>>>>>>>>>> Case 4 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+* Note: Adding a dash after each item of a
+====== Addition Assignment Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: Original size of #10#
+* second: Original capacity of #15#
++-----------------------------------------------------+
+|                 Song and Artist (4)                 |
++-----------------------------------------------------+
+|                        Almost Maybes - Jordan Davis |
+|    Loved By You - Justin Bieber Featuring Burna Boy |
+|                                   You Got It - VEDO |
+|            Girl Like Me - Black Eyed Peas X Shakira |
+|           One Too Many - Keith Urban Duet With P!nk |
+|                            Somebody - Justin Bieber |
+|  Hello - Pop Smoke Featuring A Boogie Wit da Hoodie |
+|                                Nobody - Dylan Scott |
+|           Famous Friends - Chris Young + Kane Brown |
+|                     Settling Down - Miranda Lambert |
++-----------------------------------------------------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 5 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Equality Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: Original size of #10#
+* second: Original capacity of #15#
++----------+
+|   NULL   |
++----------+
+|    false |
+|    false |
+|    false |
+|    false |
+|     true |
+|     true |
+|     true |
+|    false |
+|    false |
+|    false |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 6 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Equality Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: Original size of #10#
+* second: Original capacity of #15#
++----------+
+|   NULL   |
++----------+
+|     true |
+|     true |
+|     true |
+|     true |
+|     true |
+|     true |
+|     true |
+|     true |
+|     true |
+|     true |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 7 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Equality Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: A single value being #-1#
++----------+
+|   NULL   |
++----------+
+|     true |
+|    false |
+|    false |
+|     true |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 8 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Equality Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: A single value being #Justin Bieber#
++----------+
+|   NULL   |
++----------+
+|     true |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 9 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Less than Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: Original size of #10#
+* second: Original capacity of #15#
++----------+
+|   NULL   |
++----------+
+|     true |
+|     true |
+|     true |
+|     true |
+|    false |
+|    false |
+|    false |
+|     true |
+|    false |
+|     true |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 10 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Less than Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: Original size of #10#
+* second: Original capacity of #15#
++----------+
+|   NULL   |
++----------+
+|    false |
+|     true |
+|     true |
+|     true |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|     true |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 11 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Less than Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: A single value being #-1#
++----------+
+|   NULL   |
++----------+
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 12 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Less than Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: A single value being #Justin Bieber Featuring Dominic Fike#
++----------+
+|   NULL   |
++----------+
+|     true |
+|    false |
+|     true |
+|    false |
+|    false |
+|    false |
+|    false |
+|     true |
+|     true |
+|     true |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 13 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+====== Negate Test ======
+* Original size of #10#
+* Original capacity of #15#
++----------+
+|   NULL   |
++----------+
+|     true |
+|    false |
+|     true |
+|    false |
+|     true |
+|    false |
+|    false |
+|    false |
+|    false |
+|    false |
++----------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 14 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Logical AND Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: Original size of #10#
+* second: Original capacity of #10#
++----------+
+|   NULL   |
++----------+
+|     true |
+|    false |
+|    false |
+|    false |
+|    false |
+|     true |
+|    false |
+|    false |
+|    false |
+|     true |
++----------+
+10 items in set (capacity: 10)
+

@@ -1,0 +1,303 @@
+>>>>>>>>>>> Case 1 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
++--------------------------+
+|         Song (1)         |
++--------------------------+
+|                  Peaches |
+|                       Up |
+|      Leave The Door Open |
+|          Drivers License |
+|          Save Your Tears |
+|          Blinding Lights |
+|               Levitating |
+|              What's Next |
+|  What You Know Bout Love |
+|                     Mood |
++--------------------------+
+10 items in set (capacity: 15)
+
+>>>>>>>>>>> Case 2 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #20#
+* Expand size to #15#
++------------------------+
+|        Song (2)        |
++------------------------+
+|                  34+35 |
+|               Go Crazy |
+|          Back In Blood |
+|       Calling My Phone |
+|         Therefore I Am |
+|                 Anyone |
+| Astronaut In The Ocean |
+|     You're Mines Still |
+|        Wants And Needs |
+|                Hold On |
+|                 Hidden |
+|                 Hidden |
+|                 Hidden |
+|                 Hidden |
+|                 Hidden |
++------------------------+
+15 items in set (capacity: 20)
+
+>>>>>>>>>>> Case 3 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+* Expand size to #15#
++------------------------+
+|        Song (3)        |
++------------------------+
+|              Positions |
+|    You Broke Me First. |
+|               Beat Box |
+|            Best Friend |
+|                  On Me |
+|               Dynamite |
+|                Streets |
+|                 Dakiti |
+| Heartbreak Anniversary |
+|        No More Parties |
+|                 Hidden |
+|                 Hidden |
+|                 Hidden |
+|                 Hidden |
+|                 Hidden |
++------------------------+
+15 items in set (capacity: 15)
+
+>>>>>>>>>>> Case 4 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Expand size to #15#
++--------------------------+
+|         Song (4)         |
++--------------------------+
+|      My Ex's Best Friend |
+|            Street Runner |
+|            For The Night |
+|                Good Days |
+| What's Your Country Song |
+|              Without You |
+|            The Good Ones |
+|                  Whoopty |
+|      Put Your Records On |
+|       Beautiful Mistakes |
+|                   Hidden |
+|                   Hidden |
+|                   Hidden |
+|                   Hidden |
+|                   Hidden |
++--------------------------+
+15 items in set (capacity: 15)
+
+>>>>>>>>>>> Case 5 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #15#
+* Expand size to #20#
++----------------------+
+|       Song (5)       |
++----------------------+
+|        Starting Over |
+|             Headshot |
+|              As I Am |
+|            Telepatia |
+|             Cry Baby |
+|         Just The Way |
+|      Better Together |
+| My Head And My Heart |
+|            Good Time |
+|               Willow |
+|               Hidden |
+|               Hidden |
+|               Hidden |
+|               Hidden |
+|               Hidden |
+|               Hidden |
+|               Hidden |
+|               Hidden |
+|               Hidden |
+|               Hidden |
++----------------------+
+20 items in set (capacity: 20)
+
+>>>>>>>>>>> Case 6 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #15#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #5#
+====== Append Test ======
+* first: Original size of #5#
+* first: Original capacity of #15#
+* second: Original size of #5#
+* second: Original capacity of #5#
++------------------------+
+|       Song (6.1)       |
++------------------------+
+|             We're Good |
+|                   Lady |
+|             Track Star |
+|              Long Live |
+|             Time Today |
+| Lemon Pepper Freestyle |
+|             Heat Waves |
+|                 Damage |
+|             Goosebumps |
+|            Down To One |
++------------------------+
+10 items in set (capacity: 15)
+
+>>>>>>>>>>> Case 7 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #5#
+====== Append Test ======
+* first: Original size of #5#
+* first: Original capacity of #10#
+* second: Original size of #5#
+* second: Original capacity of #5#
++--------------------+
+|     Song (7.1)     |
++--------------------+
+|  Forever After All |
+|           Unstable |
+|      Momma's House |
+|        Off My Face |
+|     Hell Of A View |
+|              Ghost |
+| Somebody Like That |
+|             2 Much |
+|    Real As It Gets |
+|           Monsters |
++--------------------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 8 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #5#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #5#
+====== Append Test ======
+* first: Original size of #5#
+* first: Original capacity of #5#
+* second: Original size of #5#
+* second: Original capacity of #5#
++----------------------------------+
+|            Song (8.1)            |
++----------------------------------+
+|                             Body |
+|                          Buss It |
+|               La Noche de Anoche |
+|                      Masterpiece |
+|                     The Business |
+|                      Deserve You |
+|                    Wasted On You |
+|                     Made For You |
+| Breaking Up Was Easy In The 90's |
+|                        Quicksand |
++----------------------------------+
+10 items in set (capacity: 10)
+
+>>>>>>>>>>> Case 9 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #5#
+====== Copy Assignment Test ======
+* first: Original size of #10#
+* first: Original capacity of #10#
+* second: Original size of #5#
+* second: Original capacity of #5#
++------------------------+
+|       Song (9.2)       |
++------------------------+
+| Lemon Pepper Freestyle |
+|             Heat Waves |
+|                 Damage |
+|             Goosebumps |
+|            Down To One |
++------------------------+
+5 items in set (capacity: 5)
+
+>>>>>>>>>>> Case 10 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #5#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #5#
+====== Copy Assignment Test ======
+* first: Original size of #5#
+* first: Original capacity of #5#
+* second: Original size of #5#
+* second: Original capacity of #5#
++---------------------+
+|     Song (10.2)     |
++---------------------+
+|               Ghost |
+|  Somebody Like That |
+|              2 Much |
+|     Real As It Gets |
+|            Monsters |
++---------------------+
+5 items in set (capacity: 5)
+
+>>>>>>>>>>> Case 11 <<<<<<<<<<<
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #5#
+* Original capacity of #5#
+* Reserve a capacity of #5#
+====== Capacity Reservation & Exapansion Test ======
+* Original size of #10#
+* Original capacity of #10#
+* Reserve a capacity of #10#
+====== Copy Assignment Test ======
+* first: Original size of #5#
+* first: Original capacity of #5#
+* second: Original size of #10#
+* second: Original capacity of #10#
++-----------------------------------+
+|            Song (11.2)            |
++-----------------------------------+
+|                       Deserve You |
+|                     Wasted On You |
+|                      Made For You |
+|  Breaking Up Was Easy In The 90's |
+|                         Quicksand |
+|                       Die For You |
+|                         Tombstone |
+|             Pick Up Your Feelings |
+|                Love You Different |
+|                    Glad You Exist |
++-----------------------------------+
+10 items in set (capacity: 10)
+

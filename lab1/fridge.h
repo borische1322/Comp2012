@@ -1,0 +1,5 @@
+class Fridge
+{
+public:
+    Fridge();
+};
